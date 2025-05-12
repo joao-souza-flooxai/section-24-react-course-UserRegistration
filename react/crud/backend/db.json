@@ -1,12 +1,9 @@
 {
   "users": [
     {
-      "name": "Arthur Oliveira",
-      "email": "aoliveira@cod3r.com.br"
-    },
-    {
-      "name": "Maria Julia da Silva",
-      "email": "mjds@empresa.com"
+      "name": "João Victor Crivoi Cesar Souza",
+      "email": "joaocrivoi13@gmail.com",
+      "id": 1
     }
   ]
 }
